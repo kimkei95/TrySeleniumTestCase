@@ -1,4 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","87971","test_tambah_kelas","TrySeleniumTestCase.NewRegression","Mon Feb 03 16:21:10 ICT 2025","passed","Mon Feb 03 16:22:38 ICT 2025","","test_regression","",""
-"","57375","test_tambah_bank","TrySeleniumTestCase.NewRegression","Mon Feb 03 17:08:23 ICT 2025","passed","Mon Feb 03 17:09:21 ICT 2025","","test_regression","",""
-"","48246","test_edit_bank","TrySeleniumTestCase.NewRegression","Mon Feb 03 16:22:48 ICT 2025","passed","Mon Feb 03 16:23:36 ICT 2025","","test_regression","",""
+"","55543","test_tambah_bank","TrySeleniumTestCase.NewRegression","Wed Feb 05 10:17:17 ICT 2025","passed","Wed Feb 05 10:18:13 ICT 2025","","test_regression","",""
